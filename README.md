@@ -5,6 +5,10 @@ Live demo is available here: [https://eisenhower-matrix-tool-598464211339.us-wes
 
 A professional task prioritization matrix designed to visually separate the urgent from the truly important.
 
+
+## Demo
+![Dashboard Demo](assets/demo.png)
+
 ## Productivity Value
 Productivity isn't just about doing things fast; it's about doing the *right* things. This tool implements the famous Eisenhower Matrix, allowing you to drag and drop tasks into four quadrants: Do First, Schedule, Delegate, and Don't Do. It helps you identify high-leverage activities and ruthlessly eliminate busywork.
 
